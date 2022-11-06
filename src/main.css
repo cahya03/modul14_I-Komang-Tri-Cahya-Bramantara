@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+*{
+    font-family: Quicksand;
+}
+
+.title{
+    background-color: #5d5767;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+}
+.title h1{
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0px;
+}
+.about{
+    background-color: #5d5767;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+.about p{
+    margin: 0px;
+    padding: 5px;
+    font-size: 20px;
+}
+table, td {
+    border: 1px solid;
+}
